@@ -26,6 +26,9 @@ public class Calculadora {
                 break;
             case '/':
                 resultado = num1 / num2;
+                if(num1 == 0|| num2 == 0) {
+                    System.out.println("Cálculo inválido");
+                }
                 break;
             case '*':
                 resultado = num1 * num2;

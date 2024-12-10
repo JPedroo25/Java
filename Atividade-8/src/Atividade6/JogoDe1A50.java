@@ -12,7 +12,7 @@ public class JogoDe1A50 {
         int numeroSorteado = (int)doubleNumeroSorteado;
 
         //Caso queira visualizar o número a fim de testes, basta tirar os comentários da linha abaixo.
-        //System.out.println(numeroSorteado);
+        //System.out.println("O número sorteado é: " + numeroSorteado);
 
         int numeroUsuario = 0;
 
