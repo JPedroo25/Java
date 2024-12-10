@@ -1,4 +1,4 @@
-package Aula4.Desafio;
+/*package Aula4.Desafio;
 
 public class Teste {
     public static void main(String[] args) {
@@ -25,4 +25,4 @@ public class Teste {
         estoque.removerProduto(nome:"Smartphone");
         estoque.exibirEstoque();
     }
-}
+}*/
